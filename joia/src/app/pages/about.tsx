@@ -22,7 +22,7 @@ export default function About() {
                             />
                         </div>
                         <div className="flex flex-row lg:w-1/3">
-                            <img className="borderConfig h-full w-full" src={Modelo.src} alt="Imagem Representativa" />
+                            <img className="borderConfig h-full w-full" src="" alt="Imagem Representativa" />
                         </div>
                     </div>
                 </div>

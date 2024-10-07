@@ -27,7 +27,7 @@ export default function Menu() {
         //Div reponsável pela barra superior
         <div className="w-full h-20 bgColorGold shadow-md">
             <div className="px-10 w-full h-full m-auto flex justify-between items-center lg:px-40">
-                <img className="w-20" src={Logo.src} />
+                <img className="w-20" src="" alt="Logo marca"/>
 
 
                 <div className="hidden lg:flex items-center flex gap-4">
